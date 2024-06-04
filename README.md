@@ -3,9 +3,8 @@
   
 #### Reserva de espacios  
 
-Miembros:
+Realizado por:
 + Adrián Sánchez Alonso
-+ Braulio Estéfano Arias López
 
 #### Diagrama UML
 ![Error al cargar la imagen ](Diagrama_UML_PRO.png)
